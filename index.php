@@ -10,7 +10,7 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="col">
+            <div class="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                 <h1>ADMINISTRATOR LOGIN</h1>
                 <table class="table table-borderless">
                     <tr>
@@ -27,7 +27,7 @@
                     </tr>
                 </table>
             </div>
-            <div class="col">
+            <div class="col  col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                 <h1>FACULTY LOGIN</h1>
                 <table class="table table-borderless">
                     <tr>
